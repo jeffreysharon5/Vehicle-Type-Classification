@@ -39,4 +39,4 @@ Classify vehicle images into:
 
 ### Train Model
 ```bash
-python train.py
+python app.py
